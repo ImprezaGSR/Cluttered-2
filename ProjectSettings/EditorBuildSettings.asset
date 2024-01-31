@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainTitle.unity
+    guid: 6ec8d8cf817f74b61afdaa77eda58547
+  - enabled: 1
+    path: Assets/Scenes/ShipInside.unity
+    guid: b6d53bdf28a2b413bae42f9fddef0a87
+  - enabled: 1
+    path: Assets/Scenes/Scavenging.unity
+    guid: 6aa46b75e9b8a4d4496326b40f84ac12
+  m_configObjects: {}
